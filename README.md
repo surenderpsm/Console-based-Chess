@@ -16,10 +16,7 @@ The main aim of this project is to develop a light-weighted game software which 
 - This program features Menus with easy segregation of required functions.
 - The program starts with a Main Menu, which allows you to choose a desired game.
 - The Menu in the beginning of the chess game, allows us to make a move(M), Save(S) the game, Load(L) the saved game, and Exit(X).
-### Graphics 
-- This program uses the ‘graphics.h’ header file to create a retro-style start screen and a thank you animation.
-- The graphics driver is closed during runtime of the games as it is not necessary during those times. 
-
+- The current game can be saved, and this is done by saving the BOARD[][] array into a text file. This is retrieved later when load function is used.
 ## Description
 This program has been incorporated as a set of modules for ease of access to different parts of the code.
 ### Modules
