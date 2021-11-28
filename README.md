@@ -3,7 +3,9 @@ This project has been developed using C++ which is an extension to C language an
 
 The main aim of this project is to develop a light-weighted game software which can be utilised on easy setup and installation.  These games have been implemented on console, which makes it as fast to access.
 ## Requirements
+- Windows 10 PC
 - [Turbo C++](https://developerinsider.co/download-turbo-c-for-windows-7-8-8-1-and-windows-10-32-64-bit-full-screen/) compiler and interface
+- Download the project and run CHESS.PRJ.
 ## Features
 ### Chess Board
 - We can use ASCII characters to draw the board.
