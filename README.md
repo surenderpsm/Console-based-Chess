@@ -55,3 +55,5 @@ The project consists of 8 files which are described below:
 | UI_INPUT |	Specifically, to input and validate the options and moves |
 | UTILITY |	Holds some miscellaneous utility functions |
 | MAIN |	Holds the function for the Chess program |
+
+#### Sample Output
