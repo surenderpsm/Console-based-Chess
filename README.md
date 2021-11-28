@@ -20,7 +20,7 @@ The main aim of this project is to develop a light-weighted game software which 
 ## Description
 This program has been incorporated as a set of modules for ease of access to different parts of the code.
 ### Modules
-#### Header File [<ptyp.h>]()
+#### Header File [<ptyp.h>](PTYP.H)
 This header file holds all the global function prototypes, structures, and classes definitions which can be easily accessed by each and every module.
 #### Data Structures
 Data structures used in this program are summarised as below:
