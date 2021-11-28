@@ -38,22 +38,22 @@ The classes used in this program are summarised in Figure below and described in
 
 | Class | Description |
 |:-----:|:-----------:|
-| Board |	Used to make the layout of the chess board. Holds the array of BOARD pieces. Also contains functions for implementation and access of pieces, colour of pieces and to save and load game. |
-| Chess |	Holds a Board class as a data member. It includes all the functions which is used in the validation of a move. |
-| Game	| The overall class which ensures the workflow for each round and displays error messages as and when required. |
+| [Board](BOARD.CPP) |	Used to make the layout of the chess board. Holds the array of BOARD pieces. Also contains functions for implementation and access of pieces, colour of pieces and to save and load game. |
+| [Chess](CHESS.CPP) |	Holds a Board class as a data member. It includes all the functions which is used in the validation of a move. |
+| [Game](GAME.CPP)	| The overall class which ensures the workflow for each round and displays error messages as and when required. |
 
 #### Structure of the project
 The project consists of 8 files which are described below:
 
 | File Name | Description |
 |:---------:|:---------:|
-| BOARD | Holds function definitions for board class |
-| CHESS |	Holds function definitions for chess class |
-| CHECK |	Holds function definitions for chess class, but includes those which detect check and checkmates. |
-| GAME  |	Holds function definitions for game class |
-|  UI   |	Holds the function definition to display the User interface with the board |
-| UI_INPUT |	Specifically, to input and validate the options and moves |
-| UTILITY |	Holds some miscellaneous utility functions |
-| MAIN |	Holds the function for the Chess program |
+| [BOARD](BOARD.CPP) | Holds function definitions for board class |
+| [CHESS](CHESS.CPP) |	Holds function definitions for chess class |
+| [CHECK](CHECK.CPP) |	Holds function definitions for chess class, but includes those which detect check and checkmates. |
+| [GAME](GAME.CPP)  |	Holds function definitions for game class |
+|  [UI](UI.CPP)   |	Holds the function definition to display the User interface with the board |
+| [UI_INPUT](UI_INPUT.CPP) |	Specifically, to input and validate the options and moves |
+| [UTILITY](UTILITY.CPP) |	Holds some miscellaneous utility functions |
+| [MAIN](MAIN.CPP) |	Holds the function for the Chess program |
 
 #### Sample Output
